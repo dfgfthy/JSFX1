@@ -1,0 +1,2 @@
+# JSFX1
+vless
